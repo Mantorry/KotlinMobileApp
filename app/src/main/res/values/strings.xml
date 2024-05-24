@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabsPart2</string>
+    <string name="bookName">Название книги</string>
+    <string name="hintTitleField">Введите название книги</string>
+    <string name="bookDesc">Описание книги</string>
+    <string name="hintBookDesc">Введите описание книги</string>
+    <string name="isReadBook">Книга прочитана?</string>
+</resources>
